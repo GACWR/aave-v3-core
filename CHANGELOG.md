@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.14.0](https://www.github.com/aave/aave-v3-core/compare/v1.13.1...v1.14.0) (2022-01-30)
+
+
+### Features
+
+* removed obsolete files for the certora tools ([d7e0e7c](https://www.github.com/aave/aave-v3-core/commit/d7e0e7c37c0741b54afde3354d0be4a619fafde5))
+
+
+### Bug Fixes
+
+* Fix typo in package contributors tag ([14a3b6d](https://www.github.com/aave/aave-v3-core/commit/14a3b6d503d71d080c145e7fbcdacbe68b2b11ba))
+* typo in tech paper ([d6b9cbc](https://www.github.com/aave/aave-v3-core/commit/d6b9cbc55adf88c4cb7dd6df11941167fd119b3d))
+* Update contributors etc in package.json ([60fc967](https://www.github.com/aave/aave-v3-core/commit/60fc967fa8037bb856c0c39c1e433fabafab255c))
+* Update gas optimization numbers ([8719929](https://www.github.com/aave/aave-v3-core/commit/8719929597742e697cd8824cd29d9a786f3ec0eb))
+
 ### [1.13.1](https://www.github.com/aave/aave-v3-core/compare/v1.13.0...v1.13.1) (2022-01-27)
 
 

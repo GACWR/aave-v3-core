@@ -1,6 +1,6 @@
 {
   "name": "@aave/core-v3",
-  "version": "1.13.1",
+  "version": "1.14.0",
   "description": "Aave Protocol V3 core smart contracts",
   "files": [
     "contracts",
@@ -81,7 +81,7 @@
     "Lasse Herskind <lasse@aave.com>",
     "Mark Hinschberger <mark@aave.com>",
     "Peter Michael <peter.dev@aave.com>",
-    "Pol Sendra <pol@aave.com>" 
+    "Pol Sendra <pol@aave.com>"
   ],
   "license": "BUSL-1.1",
   "dependencies": {
